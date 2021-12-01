@@ -45,7 +45,7 @@ p { /* Styling for paragraph */
 div { /* text alignments */
   text-align: center;
 }
-ol {font-size:18px; /* orgamized list styling */
+ol {font-size:18px; /* organized list styling */
   color: #ffffff;
   display: table;
   margin-left: auto;
@@ -56,7 +56,7 @@ ol {font-size:18px; /* orgamized list styling */
 div { /* text alignments */
   text-align: center;
 }
-ul { /* list styling*/ 
+ul { /* list styling */ 
   display: inline-block;
   text-align: center;
 }
