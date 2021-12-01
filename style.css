@@ -7,6 +7,18 @@ body { /*styling for the whole body*/
   margin-left: 12px;
 }
 
+h1 { /*center text*/
+  text-align: center;
+}
+
+h2 { /*center text*/
+  text-align: center;
+}
+
+h3 { /*center text*/
+  text-align: center;
+}
+
 h1,
 h2,
 h3 { /* styling for h1, h2, h3 */
@@ -15,8 +27,6 @@ h3 { /* styling for h1, h2, h3 */
   padding-right: 15px;
   padding-bottom: 20px;
   padding-left: 12px;
-  display: inline-block;
-  text-align: center;
 }
 
 p { /* Styling for paragraph */
